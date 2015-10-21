@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
   s.version     = '0.0.1'
   s.authors     = ['Tute Costa']
   s.email       = ['tutecosta@gmail.com']
-  s.homepage    = "https://github.com/doorkeeper-gem/doorkeeper/doorkeeper-grants-assertion"
+  s.homepage    = "https://github.com/jordananders/doorkeeper-grants_assertion"
   s.summary     = "Assertion grant extension for Doorkeeper."
   s.description = "Assertion grant extension for Doorkeeper."
   s.license     = 'MIT'
